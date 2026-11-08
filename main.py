@@ -35,4 +35,4 @@ async def update(ctx, new_glory: int):
     last_updated_by = ctx.author.name
     await ctx.send(f"✅ **Glory Updated!** Outer God ki nayi glory ab **{new_glory:,}** set ho gayi hai.")
 
-bot.run('MTU2ODk0MzIxNzcwODIzNzUx.Gvt4h7.OLE4pIsusuLTGdwiifIxBRuYmHfcqjosiI')
+bot.run('MTU2ODk0NDMyMTc3MDgyMzc1MQ.GpCofW.rIVSsdCfITfI2taCDJICN2AWh9t_jMLP0p0BJs')
